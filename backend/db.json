@@ -14,6 +14,11 @@
       "id": 3,
       "name": "Samsung S20+",
       "price": 5000.89
+    },
+    {
+      "name": "lapis preto",
+      "price": "10.00",
+      "id": 4
     }
   ]
 }
